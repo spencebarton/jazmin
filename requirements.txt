@@ -1,0 +1,14 @@
+pillow
+pygame
+playsound
+requests
+beautifulsoup4
+lxml
+textblob
+openai
+keyboard
+colorama
+winshell
+pywin32
+tkVideoPlayer
+python-dotenv
